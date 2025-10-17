@@ -1,2 +1,1 @@
-# CODSOFT
-my virtual internship at codsoft .
+this is the basic portfolio of mine 
